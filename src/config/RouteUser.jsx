@@ -56,7 +56,7 @@ const RouteUser = () => {
                                 <Route path='/blog/:id' element={<BlogDetail />} />
                                 <Route path='/post/:id/edit' element={<PostEdit />} />
                                 <Route path='/catalog/:slug' element={<Product  />} />
-                                <Route path='/vinfastauto.com/' element={<Home />} />
+                                <Route path='/' element={<Home />} />
                                 <Route path='*' element={<NotFound />} />
                             </Routes>
                 }

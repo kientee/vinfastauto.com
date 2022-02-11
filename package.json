@@ -28,7 +28,7 @@
     "sass": "^1.43.4",
     "swiper": "^6.8.4",
     "web-vitals": "^1.1.2",
-    "homepage": "http://yuribenjamin.github.io/my-app"
+    "homepage": "http://kientee.github.io/vinfastauto.com"
   },
   "scripts": {
     "start": "react-scripts start",
