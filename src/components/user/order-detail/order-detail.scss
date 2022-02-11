@@ -1,0 +1,20 @@
+@use "../../../scss/" as *;
+
+.my__account__info {
+  display: none;
+}
+
+.order {
+  font-weight: 600;
+  &-warning {
+    color: #1d9000;
+  }
+
+  &-success {
+    color: #2c72c6;
+  }
+
+  &-danger {
+    color: #c70000;
+  }
+}
