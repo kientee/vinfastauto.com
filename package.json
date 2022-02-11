@@ -27,7 +27,8 @@
     "recharts": "^2.1.8",
     "sass": "^1.43.4",
     "swiper": "^6.8.4",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "homepage": "http://yuribenjamin.github.io/my-app"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,7 +37,6 @@
     "eject": "react-scripts eject",
     "predeploy": "react-scripts build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
